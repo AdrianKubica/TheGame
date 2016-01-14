@@ -1,2 +1,2 @@
-# TheGame TEST TEST
+# TheGame
 Projekt testowy
